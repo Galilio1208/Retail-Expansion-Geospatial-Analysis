@@ -1,0 +1,35 @@
+# Ignore large GIS files
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.xml
+*.gdb
+*.lock
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp# Ignore large GIS files
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.xml
+*.gdb
+*.lock
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
