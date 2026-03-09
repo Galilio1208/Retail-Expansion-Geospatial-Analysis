@@ -131,16 +131,16 @@ The final map highlights:
 ## Workflow Visualization
 
 ### Population Density Map
-![Population Density](screenshots/01_population_density.png)
+![Population Density](screenshots/most_populated_wards_with_retail_gap_zones.png)
 
 ### Existing Retail Locations
-![Retail Points](screenshots/02_retail_points.png)
+![Retail Points](screenshots/retail_points.png)
 
 ### Retail Service Areas
-![Service Areas](screenshots/03_service_areas.png)
+![Service Areas](screenshots/retail_service_area_coverage.png)
 
 ### Recommended Expansion Zones
-![Final Sites](screenshots/04_final_sites.png)
+![Final Sites](screenshots/recommended_retail_points.png)
 
 ---
 
